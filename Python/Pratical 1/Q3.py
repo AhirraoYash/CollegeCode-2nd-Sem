@@ -1,0 +1,5 @@
+print("Enter Number")
+num=input()
+print(num)
+num_tuple=tuple(num)
+print(num_tuple)

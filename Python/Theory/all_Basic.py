@@ -68,7 +68,11 @@
 # if 2 is 2:
 #     print("hello")
 
-num=1
-while num<=5 :
-    print(num)
-    num+=1
+# num=1
+# while num<=5 :
+#     print(num)
+#     num+=1
+
+a=[1,2,3,4]
+while a:
+    print(a.pop())
